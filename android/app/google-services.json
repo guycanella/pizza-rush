@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815048987055",
+    "project_id": "pizza-rush-33d1e",
+    "storage_bucket": "pizza-rush-33d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815048987055:android:1f96aa3f5f4d25e81bdf5a",
+        "android_client_info": {
+          "package_name": "com.pizzahush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815048987055-r5853pjpicuc7i2jdg3noep8uqib1785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg79me_z2aoK1kmKwNEpU3aS6wVZP4IkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815048987055-r5853pjpicuc7i2jdg3noep8uqib1785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
