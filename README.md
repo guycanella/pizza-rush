@@ -10,3 +10,4 @@ App to help waiters in pizza restaurants to take customer's order.
 - React Native
 - Typescript
 - Styled-components
+- Firebase
