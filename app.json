@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pizza-hush",
+    "slug": "pizza-hush",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
